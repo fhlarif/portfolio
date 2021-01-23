@@ -654,7 +654,7 @@ a { color: inherit; }
    <header> 
     	<div id="logo">
         	<h2>FATHUL ARIF KAMARUDIN</h2>
-            <h4>the opening of knowing</h4>
+            <h4 style="font-style: italic;">Take what is given freely, enjoin what is good, and turn away from the ignorant.(7:199)</h4>
             
         </div>
        <!--  <div class="social-icons-container">
@@ -686,9 +686,8 @@ a { color: inherit; }
 				<li><label>Name</label><span>Fathul Arif Kamarudin</span></li>
                 <li><label>Age</label><span>27 years old</span></li>
                 <li><label>Place</label><span>Selangor</span></li>
-                <li><label>Email</label><span id="spanmail"class="word-wrap">fathulkb@gmail.com</span></li>
-                <li><label>Phone</label><span>+601110608909</span></li>
                 <li><label>Website</label><span id="spanmail"class="word-wrap"><a href="http://fathularif.com/">fathularif.com</a></span></li>
+                <li><label>Email</label><span id="spanmail"class="word-wrap">fathulkb@gmail.com</span></li>
             </ul>
         </div><!-- /Profile -->   
          <nav class="menu">
@@ -722,7 +721,6 @@ a { color: inherit; }
                   </div>
                   <div class="left-address">
                      <ul>
-                        <li><span class="text-color">Phone no</span>+601110608909</li>
                         <li><span class="text-color">address</span>Taman Samudera, Batu Caves, Selangor</li>
                         <li><span class="text-color">EMAIL Me</span>fathulkb@gmail.com</li>
                      </ul>
@@ -830,7 +828,7 @@ a { color: inherit; }
                         </ul>
                      </div>
                      <div class="skill-name">
-                        <div class="sn">IDE</div>
+                        <div class="sn">PWA</div>
                         <ul>
                            <li></li>
                            <li></li>
@@ -990,7 +988,7 @@ a { color: inherit; }
                         </div>
                         <div class="col-md-7 no-padding">
                            <div class="progress">
-                              <div class="progress-bar bg-warning progress-bar-striped" role="progressbar"  style="width: 68%">
+                              <div class="progress-bar bg-warning progress-bar-striped" role="progressbar"  style="width: 58%">
                               </div>
                            </div>
                         </div>
@@ -1001,7 +999,7 @@ a { color: inherit; }
                         </div>
                         <div class="col-md-7 no-padding">
                            <div class="progress">
-                              <div class="progress-bar bg-warning progress-bar-striped" role="progressbar"  style="width: 75%">
+                              <div class="progress-bar bg-warning progress-bar-striped" role="progressbar"  style="width: 65%">
                               </div>
                            </div>
                         </div>
@@ -1012,7 +1010,7 @@ a { color: inherit; }
                         </div>
                         <div class="col-md-7 no-padding">
                            <div class="progress">
-                              <div class="progress-bar bg-warning progress-bar-striped" role="progressbar"  style="width: 65%">
+                              <div class="progress-bar bg-warning progress-bar-striped" role="progressbar"  style="width: 45%">
                               </div>
                            </div>
                         </div>
@@ -1123,7 +1121,7 @@ a { color: inherit; }
                         </div>
                         <div class="col-md-7 no-padding">
                            <div class="progress">
-                              <div class="progress-bar bg-warning progress-bar-striped" role="progressbar"  style="width: 85%">
+                              <div class="progress-bar bg-warning progress-bar-striped" role="progressbar"  style="width: 75%">
                               </div>
                            </div>
                         </div>
@@ -1179,7 +1177,7 @@ a { color: inherit; }
                            <div class="intetst-icons">
                               <i class="fa fa-code" aria-hidden="true"></i>
                               <br><br>
-                              <h5>SOFTWARE TESTING </h5>
+                              <h5>PROGRESSIVE WEB APP </h5>
                            </div>
                         </div>
                         <div class="col-md-4 intetst-box">
@@ -1249,10 +1247,6 @@ a { color: inherit; }
                            <div class="address-right-box">
                               <ul>
                                  <li>
-                                    <i class="fa fa-phone-square" aria-hidden="true"></i>
-                                    <p>+601110608909</p>
-                                 </li>
-                                 <li>
                                     <i class="fa fa-envelope-o" aria-hidden="true"></i>
                                     <p>fathulkb@gmail.com</p>
                                  </li>
@@ -1283,7 +1277,6 @@ a { color: inherit; }
                 <li><a href="" class="transition" data-filter=".laravel">Laravel</a></li>
                 <li><a href="" class="transition" data-filter=".react">React</a></li>
                 <li><a href="" class="transition" data-filter=".android">Android</a></li>
-                <li><a href="" class="transition" data-filter=".scratch">Scratch</a></li>
                 <li><a href="" class="transition" data-filter=".sdn">SDN</a></li>
                <!--  <li><a href="" class="transition" data-filter=".award">Award</a></li> -->
                 <li><a href="" class="transition" data-filter=".project">Project</a></li>
@@ -1297,19 +1290,9 @@ a { color: inherit; }
                         <img src="images/folio/gadgetlab1.png" alt="Grid">
                         <h2 class="title">Gadget Lab </h2>
                         <span class="categorie">HTML </span> 
-                    </a>
-					
-               </li>
-               <li class=" php ">
-                    <a href="images/folio/php.png" class="folio">
-                        <img src="images/folio/php1.png" alt="Registration Form">
-                        <h2 class="title">Registration Form </h2>
-                        <span class="categorie">PHP </span> 
-                    </a>
-					
-               </li>
-               
-               <li class=" python sdn ">
+                    </a>			
+               </li>            
+               <li class=" python sdn project">
                     <a href="https://github.com/fhlarif/simplemininet" target="_blank" class="folio">
                         <img src="images/folio/onosgui1.png" alt="ONOS">
                         <h2 class="title">ONOS </h2>
@@ -1318,7 +1301,7 @@ a { color: inherit; }
 					
                </li>
                <li class=" laravel php project ">
-                    <a href="images/folio/asset.png" class="folio">
+                    <a href="https://rmsv2.iium.edu.my/monitoringunit/asset/qrcode/R-BR13013000826-A00001" target="_blank" class="folio">
                         <img src="images/folio/asset1.png" alt="Asset Management Module">
                         <h2 class="title">Asset Management Module </h2>
                         <span class="categorie">Laravel/PHP/Project </span> 
@@ -1326,7 +1309,7 @@ a { color: inherit; }
 					
                </li>
                <li class=" android paper ">
-                    <a href="images/folio/jtec.png" class="folio">
+                    <a href="http://jtec.org.my/index.php/JTeC/search/authors/view?givenName=Fathul%20Arif&familyName=Kamarudin&affiliation=Universiti%20Kuala%20Lumpur&country=MY&authorName=Kamarudin%2C%20Fathul%20Arif" target="_blank" class="folio">
                         <img src="images/folio/jtec1.png" alt="JTEC">
                         <h2 class="title">JTEC </h2>
                         <span class="categorie">Published Paper/Android </span> 
@@ -1344,13 +1327,13 @@ a { color: inherit; }
                <li class=" html css javascript open ">
                     <a href="https://fathularif.netlify.app/" target="_blank" class="folio">
                         <img src="images/folio/fathularif.png" alt="My Resume">
-                        <h2 class="title">My Resume </h2>
+                        <h2 class="title">Netlify</h2>
                         <span class="categorie">HTML/CSS/JS/Open Source</span> 
                     </a>
 					
                </li>
                <li class=" android java ">
-                    <a href="images/folio/android.png" class="folio">
+                    <a href="http://jtec.org.my/index.php/JTeC/search/authors/view?givenName=Fathul%20Arif&familyName=Kamarudin&affiliation=Universiti%20Kuala%20Lumpur&country=MY&authorName=Kamarudin%2C%20Fathul%20Arif" target="_blank" class="folio">
                         <img src="images/folio/android1.png" alt="Android App">
                         <h2 class="title">Android App </h2>
                         <span class="categorie">Android/Java </span> 
@@ -1358,7 +1341,7 @@ a { color: inherit; }
 					
                </li>
                <li class=" sdn paper ">
-                    <a href="images/folio/paper.png" class="folio">
+                    <a href="http://ijeecs.iaescore.com/index.php/IJEECS/article/view/20925" target="_blank" class="folio">
                         <img src="images/folio/paper1.png" alt="IJEECS">
                         <h2 class="title">IJEECS </h2>
                         <span class="categorie">Published Paper/SDN </span> 
@@ -1370,14 +1353,6 @@ a { color: inherit; }
                         <img src="images/folio/seed1.png" alt="Document Management System">
                         <h2 class="title">SeedDMS </h2>
                         <span class="categorie">PHP/Open Source </span> 
-                    </a>
-					
-               </li>
-               <li class=" scratch">
-                    <a href="images/folio/scratch.png" class="folio">
-                        <img src="images/folio/scratch1.png" alt="Scratch">
-                        <h2 class="title">Scratch </h2>
-                        <span class="categorie">Scratch </span> 
                     </a>
 					
                </li>
@@ -1394,6 +1369,13 @@ a { color: inherit; }
                         <img src="images/folio/robo1.png" alt="Robo">
                         <h2 class="title">Robo </h2>
                         <span class="categorie">CSS </span> 
+                    </a>
+               </li>
+               <li class="  html css javascript ">
+                    <a href="https://fathularif.com/" target="_blank" class="folio">
+                        <img src="images/folio/resume1.png" alt="Resume">
+                        <h2 class="title">Portfolio </h2>
+                        <span class="categorie">HTML/CSS/JS </span> 
                     </a>
 					
                </li>
@@ -1437,14 +1419,6 @@ a { color: inherit; }
                     </a>
 					
                </li>
-               <li class="html ">
-                    <a href="images/folio/wildlife.png" class="folio">
-                        <img src="images/folio/wildlife1.png" alt="Wildlife">
-                        <h2 class="title">Wildlife </h2>
-                        <span class="categorie">HTML </span> 
-                    </a>
-					
-            	</li>
                <li class="html css javascript">
                     <a href="https://fhlarif.github.io/background-generator/" target="_blank" class="folio">
                         <img src="images/folio/background-gen1.png" alt="Background Generator">
@@ -1486,7 +1460,6 @@ a { color: inherit; }
             	<ul>
                     <li>Taman Samudera, Batu Caves, Selangor<br /><br /></li>
                     <li>EMAIL: fathulkb@gmail.com</li>
-                    <li>PHOME: +601110608909</li>
                     <li>WEBSITE: fathularif.com</li>
                     <br>
                 </ul>
@@ -1522,6 +1495,7 @@ a { color: inherit; }
        <a href="https://github.com/fhlarif" target="blank"><i class="fa fa-github" style="padding:1em;margin-left: 2.5em"></i></a>
        <a href="https://www.facebook.com/fathul.arif34/" target="blank"><i class="fa fa-facebook" style="padding:1em;"></i></a>
        <a href="https://www.linkedin.com/in/fathulkb/" target="blank"><i class="fa fa-linkedin" style="padding:1em;"></i></a>
+       <a href="https://www.instagram.com/fhlarif/" target="blank"><i class="fa fa-instagram" style="padding:1em;"></i></a>
        <a href=" https://wa.link/naxpw0" target="blank"><i class="fa fa-whatsapp" style="padding:1em;"></i></a>
        
       </div>
