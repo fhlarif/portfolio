@@ -684,7 +684,7 @@ a { color: inherit; }
             </div>
         	<ul class="personal-info">
 				<li><label>Name</label><span>Fathul Arif Kamarudin</span></li>
-                <li><label>Age</label><span>27 years old</span></li>
+                <li><label>Age</label><span><?php echo date("Y")-1993; ?> years old</span></li>
                 <li><label>Place</label><span>Selangor</span></li>
                 <li><label>Website</label><span id="spanmail"class="word-wrap"><a href="http://fathularif.com/">fathularif.com</a></span></li>
                 <li><label>Email</label><span id="spanmail"class="word-wrap">fathulkb@gmail.com</span></li>
