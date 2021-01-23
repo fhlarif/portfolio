@@ -1191,7 +1191,7 @@ a { color: inherit; }
                            <div class="intetst-icons">
                               <i class="fa fa-connectdevelop" aria-hidden="true"></i>
                               <br><br>
-                              <h5>IOT</h5>
+                              <h5>INTERNET OF THINGS</h5>
                            </div>
                         </div>
                         <div class="col-md-4 intetst-box">
