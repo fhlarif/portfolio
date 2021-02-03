@@ -819,23 +819,20 @@ a { color: inherit; }
                         </ul>
                      </div>
                      <div class="skill-name">
-                        <div class="sn">SQL</div>
+                        <div class="sn">SPA</div>
                         <ul>
-                           <li></li>
-                           <li></li>
                            <li></li>
                            <li></li>
                         </ul>
                      </div>
                      <div class="skill-name">
-                        <div class="sn">PWA</div>
+                        <div class="sn">MPA</div>
                         <ul>
                            <li></li>
                            <li></li>
                            <li></li>
                            <li></li>
-                           <li></li>
-                        </ul>
+                          </ul>
                      </div>
                   </div>
                   <div class="right-skills">
