@@ -758,6 +758,11 @@ a { color: inherit; }
                      <h2>ACTIVITIES</h2>
                   </div>
                   <div class="ex-box">
+                     <h2>2021</h2>
+                     <h4>ONLINE</h4>
+                     <p> CEO@FACULTY PROGRAMME 2.0 Fellow (CYCLE 3): Taaruf on Python 3, Zoom, IIUM GOMBAK, 18/02/2021  </p>
+                  </div>
+                  <div class="ex-box">
                      <h2>2020</h2>
                      <h4>ONLINE</h4>
                      <p>Information System Management Security (ISMS), Information Technology Division, INTAN, Bukit Kiara, 19/08/2020  </p>
@@ -819,8 +824,10 @@ a { color: inherit; }
                         </ul>
                      </div>
                      <div class="skill-name">
-                        <div class="sn">SPA</div>
+                        <div class="sn">CMS</div>
                         <ul>
+                           <li></li>
+                           <li></li>
                            <li></li>
                            <li></li>
                         </ul>
@@ -869,7 +876,7 @@ a { color: inherit; }
                         </div>
                         <div class="col-md-7 no-padding">
                            <div class="progress">
-                              <div class="progress-bar bg-warning progress-bar-striped" role="progressbar" style="width: 60%">
+                              <div class="progress-bar bg-warning progress-bar-striped" role="progressbar" style="width: 50%">
                               </div>
                            </div>
                         </div>
@@ -902,7 +909,7 @@ a { color: inherit; }
                         </div>
                         <div class="col-md-7 no-padding">
                            <div class="progress">
-                              <div class="progress-bar bg-warning progress-bar-striped" role="progressbar"  style="width: 60%">
+                              <div class="progress-bar bg-warning progress-bar-striped" role="progressbar"  style="width: 55%">
                               </div>
                            </div>
                         </div>
@@ -924,7 +931,7 @@ a { color: inherit; }
                         </div>
                         <div class="col-md-7 no-padding">
                            <div class="progress">
-                              <div class="progress-bar bg-warning progress-bar-striped" role="progressbar"  style="width: 50%">
+                              <div class="progress-bar bg-warning progress-bar-striped" role="progressbar"  style="width: 30%">
                               </div>
                            </div>
                         </div>
@@ -935,7 +942,7 @@ a { color: inherit; }
                         </div>
                         <div class="col-md-7 no-padding">
                            <div class="progress">
-                              <div class="progress-bar bg-warning progress-bar-striped" role="progressbar"  style="width: 40%">
+                              <div class="progress-bar bg-warning progress-bar-striped" role="progressbar"  style="width: 29%">
                               </div>
                            </div>
                         </div>
@@ -946,12 +953,12 @@ a { color: inherit; }
                         </div>
                         <div class="col-md-7 no-padding">
                            <div class="progress">
-                              <div class="progress-bar bg-warning progress-bar-striped" role="progressbar"  style="width: 30%">
+                              <div class="progress-bar bg-warning progress-bar-striped" role="progressbar"  style="width: 35%">
                               </div>
                            </div>
                         </div>
                      </div>
-                     <div class="row no-margin">
+                     <!-- <div class="row no-margin">
                         <div class="col-md-5 no-padding">
                            <h4>VM Tools</h4>
                         </div>
@@ -961,7 +968,7 @@ a { color: inherit; }
                               </div>
                            </div>
                         </div>
-                     </div>
+                     </div> -->
                      <div class="row no-margin">
                         <div class="col-md-5 no-padding">
                            <h4>Docker</h4>
@@ -1007,7 +1014,7 @@ a { color: inherit; }
                         </div>
                         <div class="col-md-7 no-padding">
                            <div class="progress">
-                              <div class="progress-bar bg-warning progress-bar-striped" role="progressbar"  style="width: 45%">
+                              <div class="progress-bar bg-warning progress-bar-striped" role="progressbar"  style="width: 35%">
                               </div>
                            </div>
                         </div>
@@ -1174,7 +1181,7 @@ a { color: inherit; }
                            <div class="intetst-icons">
                               <i class="fa fa-code" aria-hidden="true"></i>
                               <br><br>
-                              <h5>PROGRESSIVE WEB APP </h5>
+                              <h5>SINGLE PAGE APP </h5>
                            </div>
                         </div>
                         <div class="col-md-4 intetst-box">
@@ -1282,6 +1289,13 @@ a { color: inherit; }
             </ul>
             <div class="extra-text">Example of works and achievement</div>
             <ul id="portfolio-list">
+            <li class="  laravel php project">
+                   <a href=" https://github.com/fhlarif/adminlite" target="_blank" class="folio">
+                        <img src="images/folio/cms.png" alt="Grid">
+                        <h2 class="title">CMS </h2>
+                        <span class="categorie">Laravel/PHP/Project </span> 
+                    </a>			
+               </li> 
             <li class="  html ">
                    <a href=" https://gadgetlab.netlify.app/" target="_blank" class="folio">
                         <img src="images/folio/gadgetlab1.png" alt="Grid">
