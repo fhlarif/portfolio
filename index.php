@@ -675,6 +675,7 @@ a { color: inherit; }
                     <ul>
                         <li><img src="images/fathul.jpg"alt="Fathul Arif" height="186" width="153" /></li>
                         <li><img src="images/fathul1.jpg" alt="Fathul Arif" height="186" width="153" /></li>
+                        <li><img src="images/fathullogo1.png" alt="Fathul Arif" height="186" width="153" /></li>
                     </ul>
                 </div>
                 <h1>FATHUL ARIF KAMARUDIN</h1>
@@ -1280,6 +1281,7 @@ a { color: inherit; }
                 <li><a href="" class="transition" data-filter=".python">Python</a></li>
                 <li><a href="" class="transition" data-filter=".laravel">Laravel</a></li>
                 <li><a href="" class="transition" data-filter=".react">React</a></li>
+                <li><a href="" class="transition" data-filter=".vue">Vue</a></li>
                 <li><a href="" class="transition" data-filter=".android">Android</a></li>
                 <li><a href="" class="transition" data-filter=".sdn">SDN</a></li>
                <!--  <li><a href="" class="transition" data-filter=".award">Award</a></li> -->
@@ -1301,6 +1303,21 @@ a { color: inherit; }
                         <img src="images/folio/gadgetlab1.png" alt="Grid">
                         <h2 class="title">Gadget Lab </h2>
                         <span class="categorie">HTML </span> 
+                    </a>			
+               </li>  
+               <li class="react javascript html css">
+                    <a href="https://fhlarif.github.io/robofriends/" target="_blank" class="folio">
+                        <img src="images/folio/robofreind1.png" alt="RoboFriends">
+                        <h2 class="title">RoboFriends </h2>
+                        <span class="categorie">React/Javascript </span> 
+                    </a>
+					
+               </li>
+               <li class="  vue javascript ">
+                   <a href=" https://fhlarif.github.io/randomstalker/" target="_blank" class="vue">
+                        <img src="images/folio/vue.png" alt="Vue">
+                        <h2 class="title">Simple Vue </h2>
+                        <span class="categorie">Vue/Javascript </span> 
                     </a>			
                </li>            
                <li class=" python sdn project">
@@ -1414,14 +1431,7 @@ a { color: inherit; }
                     </a>
 					
                </li>
-            <li class="react javascript html css">
-                    <a href="https://fhlarif.github.io/robofriends/" target="_blank" class="folio">
-                        <img src="images/folio/robofreind1.png" alt="RoboFriends">
-                        <h2 class="title">RoboFriends </h2>
-                        <span class="categorie">React/Javascript </span> 
-                    </a>
-					
-               </li>
+            
                <li class="html javascript  ">
                     <a href="https://fhlarif.github.io/todo/" target="_blank" class="folio">
                         <img src="images/folio/shoppinglist1.png" alt="Shopping List">
