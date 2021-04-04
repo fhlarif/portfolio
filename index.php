@@ -1298,6 +1298,13 @@ a { color: inherit; }
                         <span class="categorie">Laravel/PHP/Project </span> 
                     </a>			
                </li> 
+               <li class="  vue javascript html css ">
+                   <a href=" http://vue.fathularif.com/" target="_blank" class="folio">
+                        <img src="images/folio/vuetask.png" alt="Task Tracker">
+                        <h2 class="title">Task Tracker </h2>
+                        <span class="categorie">Vue/Javascript </span> 
+                    </a>			
+               </li>  
             <li class="  html ">
                    <a href=" https://gadgetlab.netlify.app/" target="_blank" class="folio">
                         <img src="images/folio/gadgetlab1.png" alt="Grid">
@@ -1313,7 +1320,7 @@ a { color: inherit; }
                     </a>
 					
                </li>
-               <li class="  vue javascript ">
+               <li class="   vue javascript html css ">
                    <a href=" https://fhlarif.github.io/randomstalker/" target="_blank" class="vue">
                         <img src="images/folio/vue.png" alt="Vue">
                         <h2 class="title">Simple Vue </h2>
